@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: b117a12100d622240bb2b5f9d8105442
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 263
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f03bc1b74a17e449736db27bc19359
+      internalID: 441733569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a4ffedc2850114b8e7f89689ddb363
+      internalID: -355481114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac4c933dd3dd34cab004f046b40228
+      internalID: -1899011374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_surf_down
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 266
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb598a164792b964798b5b61ad507cba
+      internalID: 966188770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_surf_left
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 266
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ccc815dca29c4fa74d48314d46743
+      internalID: 635809102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_surf_up
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 266
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa704538abde2ec4bac559076fb095b8
+      internalID: 1041992705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_up_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 243
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9f929393bf2a24b8e4eeeb46753384
+      internalID: 1475712177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_left_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 243
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe86a49093606c4f8787ca63eee5a9a
+      internalID: 1887477869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 239
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9f7aef2eae774e8bae68a420c47f7
+      internalID: 2131964559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_jump_up
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 244
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379af8a723c08f4ca64771f7bcc04f8
+      internalID: -1893562509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_right_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 243
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d717ef2d2c594e934a57cdf9cf710
+      internalID: -201348003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_down_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b938374d6b7e84d919316dad513d5e
+      internalID: 1519739803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_up_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 221
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7bdeecc41a76843bf00f865f0613a7
+      internalID: -2004775320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_left_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 221
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a3488f529af04781396f06a6e1b9f
+      internalID: -1220580721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 215
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0071175ea4b6f240a53e11000c12c87
+      internalID: 921613631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 215
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99343a14e413a66409f72010f0f7182d
+      internalID: -1054400356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 215
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac351a3ecec380f43ac60a7e36270443
+      internalID: 483853330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 223
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769ff8e6fcf5844fa337399d0d147a7
+      internalID: -1410766978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 223
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f89a14cfc8f4cc45a96c764df52193b
+      internalID: -1363403741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_right_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 221
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec87fefa79c6b14ba392bd942d40ff6
+      internalID: -1364733714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ea6bcbbd8a2b84cabec0b9a1cbb6d2
+      internalID: 522593826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_up_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66484df9620c0564e8b37b319a9ead67
+      internalID: 65676295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_left_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 201
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52108848db07ba42b646cf78e42ee9b
+      internalID: -627086979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aadd0691ab29d44fb321ed7a8de3b3e
+      internalID: -1811153203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 201
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389aceb03f590a0469c78ec2fcfe0e60
+      internalID: 1233842149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_right_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 201
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c51346b1dff34147be4eb40d7e1657b
+      internalID: -16236666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_down_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419078f2cd11c2e4e8b7e5d0cab69d07
+      internalID: 572649810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_up_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 180
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef124af35c3bd43a90e92da2516db6
+      internalID: -1641766559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97467de47eda214fbd42055aa8090dc
+      internalID: 1689531700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_56
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 180
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3edc32bca9864385b888cc128937a
+      internalID: 1010636405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 180
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28871a04ba6e5d0408532cbea8f99cc7
+      internalID: -364861613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_right_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 180
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b13730956ce704380110d5c19d847d
+      internalID: -1062335572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_down_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c6cb1914d36447aab055e17249105
+      internalID: 1398948713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_left_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5b02b5bbcf854dacaa72b86967283
+      internalID: 907002847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 145
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d80f1fb3746304a808e90038603636
+      internalID: 1623576407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_63
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 144
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb262bde3dd54c4db944fca0e836413
+      internalID: -2005418722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_64
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 138
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af012c9fdcfbb004d8cb0c67dd4969c9
+      internalID: 1517853627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 158
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f31665cdc58d424389b06a11f3fae1d
+      internalID: -1320915857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 158
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac3a45b875b53499a6d35fe34b3e22
+      internalID: -1645894472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_right_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 159
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6019971ff8b047b3c3bef0183ab0d
+      internalID: -1501008409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_portrait
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 85
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ff90ea49c020489c37fe77c10865d
+      internalID: -1259709029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323447bc5e8d714b881634d4754fcfc
+      internalID: -816681307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_70
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013d939f5bd34547a1d718acbe6d363
+      internalID: -2101877544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2cd8bca2fc9144c99a1c154a5dfc2a
+      internalID: 483449577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 129
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda7476c2741f34d9bea220e83aad97
+      internalID: 444485381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6f78d68c0abb4ea49a6e4f2630058
+      internalID: -243519465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 122
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f2e3c6d1c92c47b9d48162a234361
+      internalID: -1398210808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 120
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc658cd997a1464c9a8c855699beb18
+      internalID: 835029242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 124
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d404a412390bc70489e03fa07b59fa4c
+      internalID: 2052703381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 129
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4176ff2a57c434499396927a7de947
+      internalID: 1978591790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c18608e47068d499cd76c5b4749079
+      internalID: -702455882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_79
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615324699c0fae94c8ea4f54f219fad4
+      internalID: -6928108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_80
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 129
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf499e5184864b4f8cf86709fc42136
+      internalID: -12868516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5980b3cecf9fe749b96ada601741f98
+      internalID: 1083091738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 129
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f333503df3da49a47a5bf2e620cde0f4
+      internalID: 478767357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 129
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a234c570b6776043a4c0ba76c1f1089
+      internalID: 1610413536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_84
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 98
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e33784ed925f94c87c10ebfa151c5e
+      internalID: 1236525224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 99
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378c94824c2d7a4e819b5f3c6dc389d
+      internalID: -937554686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4beea5e2478a641b7778428ba1153f
+      internalID: 2036102725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23adefd29e00a4b4098b33c6e416d873
+      internalID: 76875493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_up_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 265
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9013ccdce418d924abce733d5bb45cae
+      internalID: -210740044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_left_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 265
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6032d21f353a048a52f625193d7923
+      internalID: -362039416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_sit_down
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 265
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff0a7b62236284395f1534b62bcec9
+      internalID: 1033247869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_sit_up
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 265
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87bc8f2c52242443b6a669369ed6086
+      internalID: -396154570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_sit_left
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 265
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26451a81e657a194ca6e8df5d0d3c4fc
+      internalID: 8866309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_dive_down
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 262
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3ffa6528d7914e93ce73f29f9d739
+      internalID: -1720545648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_dive_up
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 262
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e5e5e25b1d50947995aa829476d4a5
+      internalID: 679346010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_dive_left
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 262
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b01da13f53ff742af345ac041cdbac
+      internalID: 1911669965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_dive_right
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 262
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf57fee16a95d34987676d628ada972
+      internalID: 1174256849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_right_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 265
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d065f65881f44eb8ae4125aafa9f7
+      internalID: -317871599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_walk_down_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9e88838feed34aa0e5fa6c83b7627
+      internalID: -886209194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 239
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891f7ff4588ada47886281b41202152
+      internalID: 704304411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483687bcc30a7a74eb8e07326940a1a2
+      internalID: -1769122104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_jump_down
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82532785a721e149bd666935fecc190
+      internalID: -1121280253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_jump_left
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 244
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ce1b618dacac41988aa1da7152bc1
+      internalID: -2087424505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_fly
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 231
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf375abf90b544686fc391f4dce5f1
+      internalID: -307284809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_surf_right
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 235
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160761701395b44695ee182417756f2
+      internalID: 624656321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 223
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eef74a2c8a0e846a839dba0cd32c00
+      internalID: 621569741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 223
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc49eb3caedbb4caaa2e8349154b77
+      internalID: 1683568795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e169b3c725f95944b539f334a3703f5
+      internalID: -2015045655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_44
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 191
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc3f2077259de4197b2184fa34d9ef
+      internalID: 1100989248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 191
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c44fac7d5a75043ab111f23e96dbae
+      internalID: -1611416016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 190
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54444adb96c32bc439e227284f415059
+      internalID: 1626027371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_left_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 180
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8b0edafac4a045a47830ebca90872
+      internalID: 68682313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 166
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e738d81fa2c6147ae7b81e70144284
+      internalID: 15475844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab747d384b84f46b910f62901f4070
+      internalID: -1784347714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_run_up_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cdf78a4e92e674ca1a063f868b8ffa
+      internalID: -1950751106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_battle_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a96f5060c60646b560df9da6c6521
+      internalID: -1043310503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_battle_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 58
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5ae5d88f83254aa63620da387e65e
+      internalID: 1875460885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_battle_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 58
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7451461a5305ac46870ba7ce2d19567
+      internalID: 392585859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_battle_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 58
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa87b9fc7348374b8a0b8bcfca4f291
+      internalID: -1539204599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 73
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359eed023fe56e14c982913f4db8633d
+      internalID: 1440906268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 75
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac78b824d607ef449a24880a92b077d1
+      internalID: -1892256789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_player_brendan_overworld_94
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 58
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb78484282e398f47bb450eaa571f767
+      internalID: 1600684306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_sit_right
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2ff64f3af92504d8d86a0481343975
+      internalID: 2145796481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brendan_jump_right
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 199
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ec5805cd7b074b95624879f6dd2bb
+      internalID: -1722716672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      back_battle_1: 1875460885
+      Emerald_player_brendan_overworld_80: -12868516
+      brendan_walk_right_0: -317871599
+      Emerald_player_brendan_overworld_44: 1100989248
+      Emerald_player_brendan_overworld_81: 1083091738
+      brendan_surf_right: 624656321
+      back_battle_3: -1539204599
+      Emerald_player_brendan_overworld_69: -816681307
+      Emerald_player_brendan_overworld_57: -364861613
+      brendan_sit_left: 8866309
+      Emerald_player_brendan_overworld_37: 1683568795
+      brendan_jump_right: -1722716672
+      Emerald_player_brendan_overworld_20: 2131964559
+      brendan_dive_right: 1174256849
+      Emerald_player_brendan_overworld_34: 483853330
+      Emerald_player_brendan_overworld_47: -1811153203
+      brendan_surf_up: 1041992705
+      brendan_walk_down_1: -886209194
+      Emerald_player_brendan_overworld_78: -702455882
+      Emerald_player_brendan_overworld_63: -2005418722
+      brendan_run_up_1: -1641766559
+      Emerald_player_brendan_overworld_54: -1784347714
+      brendan_run_down_1: 572649810
+      brendan_fly: -307284809
+      Emerald_player_brendan_overworld_56: 1010636405
+      brendan_dive_up: 679346010
+      brendan_walk_right_1: -201348003
+      Emerald_player_brendan_overworld_93: -1892256789
+      Emerald_player_brendan_overworld_5: -1899011374
+      brendan_run_left_1: 68682313
+      brendan_walk_up_0: -210740044
+      brendan_dive_left: 1911669965
+      brendan_sit_right: 2145796481
+      back_battle_0: -1043310503
+      brendan_walk_down_0: 76875493
+      back_battle_2: 392585859
+      Emerald_player_brendan_overworld_86: 2036102725
+      Emerald_player_brendan_overworld_73: -243519465
+      brendan_walk_up_1: 1475712177
+      Emerald_player_brendan_overworld_71: 483449577
+      Emerald_player_brendan_overworld_36: 621569741
+      Emerald_player_brendan_overworld_33: -1054400356
+      Emerald_player_brendan_overworld_62: 1623576407
+      brendan_run_right_0: -16236666
+      Emerald_player_brendan_overworld_94: 1600684306
+      Emerald_player_brendan_overworld_70: -2101877544
+      brendan_run_down_2: 1398948713
+      Emerald_player_brendan_overworld_85: -937554686
+      brendan_run_left_2: 907002847
+      Emerald_player_brendan_overworld_83: 1610413536
+      brendan_surf_down: 966188770
+      brendan_run_left_0: -627086979
+      brendan_run_right_2: -1501008409
+      brendan_sit_up: -396154570
+      brendan_run_down_0: 522593826
+      brendan_walk_right_2: -1364733714
+      Emerald_player_brendan_overworld_46: 1626027371
+      Emerald_player_brendan_overworld_35: -1410766978
+      Emerald_player_brendan_overworld_64: 1517853627
+      brendan_run_up_2: -1950751106
+      Emerald_player_brendan_overworld_45: -1611416016
+      Emerald_player_brendan_overworld_39: -1363403741
+      brendan_dive_down: -1720545648
+      Emerald_player_brendan_overworld_92: 1440906268
+      Emerald_player_brendan_overworld_32: 921613631
+      Emerald_player_brendan_overworld_77: 1978591790
+      brendan_run_right_1: -1062335572
+      Emerald_player_brendan_overworld_91: -343115318
+      brendan_run_up_0: 65676295
+      brendan_jump_left: -2087424505
+      Emerald_player_brendan_overworld_74: -1398210808
+      brendan_jump_up: -1893562509
+      front_portrait: -1259709029
+      Emerald_player_brendan_overworld_21: 704304411
+      Emerald_player_brendan_overworld_4: -355481114
+      brendan_walk_left_1: 1887477869
+      Emerald_player_brendan_overworld_66: -1645894472
+      Emerald_player_brendan_overworld_53: 15475844
+      Emerald_player_brendan_overworld_79: -6928108
+      brendan_walk_down_2: 1519739803
+      brendan_surf_left: 635809102
+      brendan_walk_left_0: -362039416
+      Emerald_player_brendan_overworld_82: 478767357
+      brendan_walk_up_2: -2004775320
+      Emerald_player_brendan_overworld_48: 1233842149
+      brendan_walk_left_2: -1220580721
+      Emerald_player_brendan_overworld_76: 2052703381
+      brendan_jump_down: -1121280253
+      Emerald_player_brendan_overworld_3: 441733569
+      Emerald_player_brendan_overworld_55: 1689531700
+      brendan_sit_down: 1033247869
+      Emerald_player_brendan_overworld_65: -1320915857
+      Emerald_player_brendan_overworld_22: -1769122104
+      Emerald_player_brendan_overworld_84: 1236525224
+      Emerald_player_brendan_overworld_75: 835029242
+      Emerald_player_brendan_overworld_38: -2015045655
+      Emerald_player_brendan_overworld_72: 444485381
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
